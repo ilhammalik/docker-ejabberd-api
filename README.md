@@ -1,4 +1,8 @@
-# rroemhild/ejabberd
+# Getting started with ejabberd
+
+source 
+https://github.com/rroemhild/docker-ejabberd
+https://docs.ejabberd.im/get-started/
 
 ![Docker Build Status](https://img.shields.io/docker/build/rroemhild/ejabberd.svg) ![Docker Stars](https://img.shields.io/docker/stars/rroemhild/ejabberd.svg) ![Docker Pulls](https://img.shields.io/docker/pulls/rroemhild/ejabberd.svg)
 
